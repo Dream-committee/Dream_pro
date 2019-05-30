@@ -13,6 +13,7 @@
     <form id="form1" runat="server">
     <div>
     <h1>ログイン画面</h1>
+        <h2>DREAM　COME　TRUE</h2>
         ユーザーID：　<asp:TextBox ID="TextBox1" runat="server" name="User_id"></asp:TextBox>
         <br />
         パスワード：　<asp:TextBox ID="TextBox2"  runat="server" name="Password"></asp:TextBox><br />
