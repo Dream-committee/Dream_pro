@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>メニュー</h1>
+    <h1>Menu</h1>
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>さん、こんにちは。<br />
         <asp:Button ID="Button1" runat="server" Text="従業員一覧" OnClick="Button1_Click" name="Emp_button"/>
         <br />
