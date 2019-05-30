@@ -12,7 +12,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>ログイン画面</h1>
+        
+
+    <h1>Login</h1>
         <h2>DREAM　COME　TRUE</h2>
         ユーザーID：　<asp:TextBox ID="TextBox1" runat="server" name="User_id"></asp:TextBox>
         <br />
